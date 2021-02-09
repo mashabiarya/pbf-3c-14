@@ -12,8 +12,8 @@
 
 |  |  |
 |--|--|
-| NIM | **nim** |
-| Nama Lengkap | **nama** |
+| NIM | **1841720020** |
+| Nama Lengkap | **Mashabi Arya Kusuma** |
 | Kelas | TI-3C/3D |
 
 
@@ -33,4 +33,4 @@ Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektua
 
 Ttd,
 
-***(nama lengkap Anda)***
+***(Masshabi Arya Kusuma)***
