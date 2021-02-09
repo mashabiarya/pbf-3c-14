@@ -14,7 +14,7 @@
 |--|--|
 | NIM | **1841720020** |
 | Nama Lengkap | **Mashabi Arya Kusuma** |
-| Kelas | TI-3C/3D |
+| Kelas | TI-3C |
 
 
 ## Struktur Folder
