@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { connect } from "react-redux";
-import { Redirect } from "react-router-dom";
+import { Link, Redirect } from "react-router-dom";
 import { loginUser } from "../redux/actions/auth";
 
 function Login (props) {
@@ -42,13 +42,14 @@ function Login (props) {
           <hr />
           <button type="submit">Login</button>
           <hr />
+          <Link to='/register'>Klik untuk REGISTER</Link>
           <span>{loginError && ("Email atau Password Salah!")}</span>
           <span>{isLoggingIn && ("Sedang login ...")}</span>
         </form>
       </div>
     );
   }
-  
+
 }
 
 function mapStateToProps(state){

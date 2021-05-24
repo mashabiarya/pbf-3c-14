@@ -3,8 +3,9 @@ import { connect } from "react-redux";
 import ProtectedRoute from "./routes/protectedRoute";
 import Home from "./components/Home";
 import Login from "./components/Login";
+import Register from "./components/Register";
 
-function Root (props) {
+function Root(props) {
   const { isAuthenticated, isVerifying } = props;
   return (
     <Switch>
@@ -16,14 +17,15 @@ function Root (props) {
         isVerifying={isVerifying}
       />
       <Route path="/login" component={Login} />
+      <Route path="/register" component={Register} />
     </Switch>
   );
 }
 
-function mapStateToProps (state) {
+function mapStateToProps(state) {
   return {
     isAuthenticated: state.auth.isAuthenticated,
-    isVerifying: state.auth.isVerifying
+    isVerifying: state.auth.isVerifying,
   };
 }
 
