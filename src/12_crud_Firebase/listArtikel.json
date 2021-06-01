@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "title": "kediri",
+      "body": "wakanda",
+      "id": 8
+    },
+    {
+      "userId": 1,
+      "title": "tugas",
+      "body": "halo saya tugas",
+      "id": 10
+    }
+  ],
+  "comments": [
+    {
+      "userId": 1,
+      "nama": "mashabi",
+      "komentar": "wow impressif",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "nama": "figha",
+      "komentar": "bagus sekali",
+      "id": 2
+    }
+  ]
+}
