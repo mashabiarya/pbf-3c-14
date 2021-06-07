@@ -1,7 +1,7 @@
 import React from "react";
 import { connect } from "react-redux";
 import { logoutUser } from "../redux/actions/auth";
-import BlogPost from './BlogPost';
+import BlogPost from "./BlogPost";
 
 class Home extends React.Component {
 
@@ -19,7 +19,7 @@ class Home extends React.Component {
         <button onClick={this.handleLogout}>Keluar</button>
         {isLoggingOut && <p>Sedang proses logout...</p>}
         {logoutError && <p>Terjadi galat saat logout!</p>}
-        <BlogPost/>
+        <BlogPost />
       </div>
     );
   }
