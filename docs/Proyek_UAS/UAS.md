@@ -17,7 +17,7 @@ Codelabs 4  : [Link Laporan](../../docs/04_konsep_reactjs_part2/04.md)
 
 Kesimpulan  :
 
-Codelabs 5  : [Link Laporan](../../docs/05_API_dan_React_Router_di_ReactJs/05.md)
+Codelabs 5  : [Link Laporan](../../docs/05_API_dan_React_Router_di_ReactJS/05.md)
 
 Kesimpulan  :
 
@@ -33,7 +33,7 @@ Codelabs 8  : [Link Laporan](../../docs/08_UTS/08.md)
 
 Kesimpulan  :
 
-Codelabs 9  : [Link Laporan](../../docs/09_Global_API_Hooks/09.md)
+Codelabs 9  : [Link Laporan](../../docs/09_Global_Api_Hooks/09.md)
 
 Kesimpulan  :
 
