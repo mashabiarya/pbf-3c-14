@@ -37,7 +37,7 @@ Codelabs 9  : [Link Laporan](../../docs/09_Global_Api_Hooks/09.md)
 
 Kesimpulan  :
 
-Codelabs 10 : [Link Laporan](../../docs/10_Firebase_React/10.md)
+Codelabs 10 : [Link Laporan](../../docs/10_Firebase_Reactjs/10.md)
 
 Kesimpulan  :
 
